@@ -5,7 +5,7 @@
   </a>
 </p>
 
-Streamline your customer experience with scalable real-time chat
+Streamline your customer experience with scalable real-time chat. The app enables users to send text and multimedia messages like audio, video, images, documents.
 
 [![Platform](https://img.shields.io/badge/Platform-Android-brightgreen.svg)](#)      [![Platform](https://img.shields.io/badge/Language-Java-yellowgreen.svg)](#)
 
