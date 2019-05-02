@@ -30,7 +30,7 @@ Streamline your customer experience with scalable real-time chat. The app enable
 
    - Open the Project in Android Mode in Android Studio
 
-   - Go to Under java --> com\infinacle\chat\sdk\demo --> Constant
+   - Go to Under java --> com\infinacle\chat\sdk --> Constant
 
    - Under class `Constant.class`, modify *API_KEY*, *VISITOR_NAME* and *VISITOR_EMAIL* with your own **ApiKey**, **VisitorName** and **VisitorEmail**
 
@@ -42,6 +42,6 @@ Streamline your customer experience with scalable real-time chat. The app enable
 
 ## Note
 
-   You can Obtain your  *API_KEY* from [Infinacle Chat Dashboard](https://infinacle.com/)
+   You can Obtain your *API_KEY* from [Infinacle Chat Dashboard](https://infinacle.com/)
 
    For more information read [Infinacle Chat Android SDK](https://github.com/infinacle/infinidesk-android-sdk) Documentation
