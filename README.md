@@ -17,6 +17,8 @@ Streamline your customer experience with scalable real-time chat
 
 2. [Run the Sample App ](#run-the-sample-app)
 
+3. [Note ](#Note)
+
 ## Installation
 
    Simply Clone the project from DemoChatApp repository and open in Android Studio.
@@ -30,10 +32,16 @@ Streamline your customer experience with scalable real-time chat
 
    - Go to Under java --> com\infinacle\chat\sdk\demo --> Constant
 
-   - Under class `Constant.class`, modify *API_KEY*, *VISITOR_NAME* and *VISITOR_EMAIL* with your own **ApiKey** and **AppId**
+   - Under class `Constant.class`, modify *API_KEY*, *VISITOR_NAME* and *VISITOR_EMAIL* with your own **ApiKey**, **VisitorName** and **VisitorEmail**
 
         `public static String API_KEY = "XXXXXXXXX";`
         
         `public static String VISITOR_NAME = "XXXXXXXXX";`
         
         `public static String VISITOR_EMAIL = "XXXXXXXXX";`
+
+## Note
+
+   You can Obtain your  *API_KEY* from [Infinacle Chat Dashboard](https://infinacle.com/)
+
+   For more information read [Infinacle Chat Android SDK](https://github.com/infinacle/infinidesk-android-sdk) Documentation
